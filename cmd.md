@@ -9,4 +9,5 @@ git reset --hard origin/master
 ### D:\XX\XX\XX\XX\ content:XXX
 
 # below is python
+# https://pypi.org/
 ## python setup.py install
