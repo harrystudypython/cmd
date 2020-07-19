@@ -7,3 +7,6 @@ git fetch --all
 git reset --hard origin/master
 # below is everything 
 ### D:\XX\XX\XX\XX\ content:XXX
+
+# below is python
+## python setup.py install
