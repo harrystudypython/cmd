@@ -13,3 +13,5 @@ git reset --hard origin/master
 # below is python
 # https://pypi.org/
 ## python setup.py install
+# below is md rule
+- [ ] need to do
