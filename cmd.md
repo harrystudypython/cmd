@@ -15,3 +15,4 @@ git reset --hard origin/master
 ## python setup.py install
 # below is md rule
 - [ ] need to do
+- [x] means already done
