@@ -7,6 +7,7 @@
 ## findstr /sin/c:"XXX" *.txt
 git fetch --all
 git reset --hard origin/master
+git cherry-pick commitnum
 # below is everything 
 ### D:\XX\XX\XX\XX\ content:XXX
 
