@@ -7,7 +7,8 @@
 ## findstr /sin/c:"XXX" *.txt
 git fetch --all
 git reset --hard origin/master
-git cherry-pick commitnum
+## git cherry-pick commitnum
+### up cmd should be appaly in branch which is master
 # below is everything 
 ### D:\XX\XX\XX\XX\ content:XXX
 
