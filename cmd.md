@@ -19,3 +19,5 @@
 # below is md rule
 - [ ] need to do
 - [x] means already done
+# below is cmder
+##  cd /d d:
