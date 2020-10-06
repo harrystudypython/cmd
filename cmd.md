@@ -20,4 +20,5 @@
 - [ ] need to do
 - [x] means already done
 # below is cmder
+## Cmder.exe /REGISTER ALL
 ##  cd /d d:
