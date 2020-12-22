@@ -22,3 +22,5 @@
 # below is cmder
 ## Cmder.exe /REGISTER ALL
 ##  cd /d d:
+## 粘贴命令：Shift + Insert 
+## 复制命令：Ctrl + Insert 
