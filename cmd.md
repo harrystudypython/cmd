@@ -24,3 +24,6 @@
 ##  cd /d d:
 ## 粘贴命令：Shift + Insert 
 ## 复制命令：Ctrl + Insert 
+
+# below is outlook
+### [对话]:="
