@@ -24,6 +24,7 @@
 ##  cd /d d:
 ## 粘贴命令：Shift + Insert 
 ## 复制命令：Ctrl + Insert 
+## sudo rm -rfv
 
 # below is outlook
 ### [对话]:="
